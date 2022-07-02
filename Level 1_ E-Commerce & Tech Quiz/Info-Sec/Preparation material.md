@@ -1,0 +1,4 @@
+- https://www.sanfoundry.com/cyber-security-questions-answers-information-security-technologies/
+- https://www.javatpoint.com/cyber-security-mcq
+- https://www.interviewbit.com/cyber-security-mcq/
+- https://www.onlineinterviewquestions.com/information-security-mcq/

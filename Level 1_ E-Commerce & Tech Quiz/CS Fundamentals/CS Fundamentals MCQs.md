@@ -1,0 +1,2 @@
+- [Link-1](https://www.examveda.com/computer-fundamentals/practice-mcq-question-on-computer-fundamental-miscellaneous/?section=2)
+- [Link-2](https://www.indiabix.com/computer-science/computer-fundamentals/024010)
